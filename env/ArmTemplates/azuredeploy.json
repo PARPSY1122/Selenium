@@ -28,7 +28,7 @@
 				"osProfile": {
 					"computerName": "[parameters('virtualMachineName')]",
 					"adminUsername": "vmadmin",
-					"adminPassword": "P2ssw0rd@123",
+					"adminPassword": "passwd@123",
 					"windowsConfiguration": {
 						"provisionVmAgent": "true"
 					}
